@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.3792d4b3.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/Frame/Vue/03/03_01.md","lastUpdated":1656980942000}'),r={name:"guide/Frame/Vue/03/03_01.md"};function o(s,_,c,n,d,p){return a(),t("div")}var u=e(r,[["render",o]]);export{m as __pageData,u as default};
